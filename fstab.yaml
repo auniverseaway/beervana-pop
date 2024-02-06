@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1oF-LQOMkrO3b6YzFf9agLy5t8ZdD6vGo
+  /:
+    url: https://content.da.live/auniverseaway/beervana-pop/
+    type: markup
